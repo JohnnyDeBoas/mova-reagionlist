@@ -1,4 +1,4 @@
-# regionlist-mova
+# Regionlist Mova
 
 ## Project setup
 ```
